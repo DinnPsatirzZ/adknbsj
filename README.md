@@ -1,17 +1,17 @@
 <p align="left">
-	<img src="https://telegra.ph/file/2a994c4949315bb7f51b8.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://github.com/DinXZY.png" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="left">Haruno Bot</h1>
+<h1 align="left">Psatir BotV2</h1>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FadliDarmawan/haruno)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DinXZY/Psatir-BotV2)
 
 [![Run on Repl.it](https://repl.it/badge/github/FadliDarmawan/haruno)](https://repl.it/github/FadliDarmawan/haruno)
 
 [![Grup WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/LIX42RUhLi15MBXhfvrF6K)
 
-# Haruno Bot
-Haruno bot adalah bot whatsapp hasil pe-nggarapan ulang dari ariffb25/stikerinbot yang sudah di edit agar bisa di jalankan di termux.
-Haruno bot juga dapat di jalankan di RPP/VPS/Windows, Heroku, Replit.
+# Psatir Bot
+Psatir bot adalah bot whatsapp hasil pe-nggarapan ulang dari ariffb25/stikerinbot yang sudah di edit lalu di edit lagi dari FadliDarmawan/haruno agar bisa di jalankan di termux.
+Psatir bot juga dapat di jalankan di RPP/VPS/Windows, Heroku, Replit.
 
 # Termux
 NOTE: untuk pengguna termux yang ingin menggunakan fitur nhentai(dari module nhentai-node-api) harap aktifkan dns (dns.google) agar bisa mengakses fitur (kena internet positif)
@@ -20,8 +20,8 @@ apt install ffmpeg
 apt install imagemagick
 apt install nodejs
 apt install git
-git clone https://github.com/FadliDarmawan/haruno
-cd haruno
+git clone https://github.com/DinXZY/Psatir-BotV2
+cd Psatir-BotV2
 npm i
 node . (option)
 ````
@@ -32,13 +32,13 @@ node . (option)
 * Unduh & Instal FFmpeg [`Klik Disini`](https://ffmpeg.org/download.html) (**Jangan Lupa Tambahkan FFmpeg ke variabel lingkungan PATH**)
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 ```
-git clone https://github.com/FadliDarmawan/haruno
+git clone https://github.com/DinXZY/Psatir-BotV2
 cd haruno
 npm i
 node . (option)
 ```
 # Replit
-[![Run on Repl.it](https://repl.it/badge/github/FadliDarmawan/natsukawa)](https://repl.it/github/FadliDarmawan/haruno)
+[![Run on Repl.it](https://repl.it/badge/github/FadliDarmawan/natsukawa)](https://repl.it/github/DinXZY/Psatir-BotV2)
 * Klik button
 * Buka console
 ```
@@ -140,7 +140,7 @@ conn.logger.level = 'debug'
 
 ---------
 
- [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25) | [![Fadli](https://github.com/FadliDarmawan.png?size=100)](https://github.com/FadliDarmawan)
-----|----|----
-[Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Fadli](https://github.com/FadliDarmawan)
- Penulis / Pencipta | Penulis ulang | Pengembang ulang
+ [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25) | [![Fadli](https://github.com/FadliDarmawan.png?size=100)](https://github.com/FadliDarmawan) | [![DinXZY](https://github.com/DinXZY.png?size=100)](https://github.com/DinXZY)
+----|----|----|----
+[Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Fadli](https://github.com/FadliDarmawan) | [DinXZY](https://github.com/DinXZY)
+ Penulis / Pencipta | Penulis ulang | Pengembang ulang | Numpang nama 😅
