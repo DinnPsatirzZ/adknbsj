@@ -5,9 +5,9 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DinXZY/Psatir-BotV2)
 
-[![Run on Repl.it](https://repl.it/badge/github/FadliDarmawan/haruno)](https://repl.it/github/FadliDarmawan/haruno)
+[![Run on Repl.it](https://repl.it/badge/github/DinXYZ/Psatir-BotV2)](https://repl.it/github/DinXYZ/Psatir-BotV2)
 
-[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/LIX42RUhLi15MBXhfvrF6K)
+[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/D7Tj6n26CE92PKs2CbhEu4)
 
 # Psatir Bot
 Psatir bot adalah bot whatsapp hasil pe-nggarapan ulang dari ariffb25/stikerinbot yang sudah di edit lalu di edit lagi dari FadliDarmawan/haruno agar bisa di jalankan di termux.
@@ -46,7 +46,7 @@ npm i
 node . (option)
 ```
 # Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FadliDarmawan/haruno)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DinXZY/Psatir-BotV2)
 
 *install buildpack
 * heroku/nodejs
